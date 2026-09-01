@@ -13,8 +13,30 @@ El programa solicita al usuario un párrafo y tres letras de su elección para r
 
 ## 🛠️ Tecnologías Utilizadas
 
-*   **Lenguaje:** Python 3
+*   **Lenguaje:** Python 3.x
 *   **Conceptos aplicados:** Ciclos `for`, Listas por comprensión (List Comprehensions), Diccionarios, Métodos de Strings, y validación de datos.
+
+## ⚙️ Cómo ejecutar el proyecto localmente
+
+1. Asegúrate de tener [Python](https://www.python.org/downloads/) instalado en tu sistema.
+2. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/majoclu-svg/Proyectos-Basicos-Python
+   ```
+3. Navega a la carpeta del proyecto:
+   ```bash
+   cd Proyectos-Basicos-Python
+   ```
+4. Ejecuta el script :
+   ```bash
+   python analizador_de_datos.py
+   ```
+
+## 👨‍💻 Autor
+
+**Odon Lara**
+
+GitHub: majo-svg
 
 # 🎮 Juego: Adivina el Número
 
@@ -52,3 +74,5 @@ Este proyecto fue creado para consolidar fundamentos clave de programación, dem
 ## 👨‍💻 Autor
 
 **Odon Lara**
+
+GitHub: majo-svg
