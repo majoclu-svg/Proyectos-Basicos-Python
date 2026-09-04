@@ -16,27 +16,6 @@ El programa solicita al usuario un párrafo y tres letras de su elección para r
 *   **Lenguaje:** Python 3.x
 *   **Conceptos aplicados:** Ciclos `for`, Listas por comprensión (List Comprehensions), Diccionarios, Métodos de Strings, y validación de datos.
 
-## ⚙️ Cómo ejecutar el proyecto localmente
-
-1. Asegúrate de tener [Python](https://www.python.org/downloads/) instalado en tu sistema.
-2. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/majoclu-svg/Proyectos-Basicos-Python
-   ```
-3. Navega a la carpeta del proyecto:
-   ```bash
-   cd Proyectos-Basicos-Python
-   ```
-4. Ejecuta el script :
-   ```bash
-   python analizador_de_datos.py
-   ```
-
-## 👨‍💻 Autor
-
-**Odon Lara**
-
-GitHub: majo-svg
 
 # 🎮 Juego: Adivina el Número
 
@@ -71,8 +50,37 @@ Este proyecto fue creado para consolidar fundamentos clave de programación, dem
    python adivina_el_numero.py
    ```
 
-## 👨‍💻 Autor
+# 🎮 Juego del Ahorcado (Edición League of Legends)
 
-**Odon Lara**
+Este es un divertido y sencillo juego del Ahorcado desarrollado completamente en Python. En esta versión, las palabras secretas están inspiradas en campeones del popular videojuego *League of Legends*. ¡Pon a prueba tu conocimiento y adivina el campeón antes de quedarte sin vidas!
 
-GitHub: majo-svg
+## 🚀 Características Principales
+
+*   **Temática LoL:** Adivina nombres de campeones clásicos.
+*   **Protección de errores:** El sistema valida que solo ingreses una letra válida a la vez (evita números o símbolos).
+*   **Control de progreso:** Muestra constantemente tus vidas restantes y el historial de letras ya intentadas para evitar penalizaciones injustas.
+
+## 🛠️ Requisitos e Instalación
+
+Para ejecutar este proyecto en tu computadora, no necesitas librerías externas complejas, solo el lenguaje base:
+
+1. Asegúrate de tener [Python](https://www.python.org/downloads/) instalado en tu sistema.
+2. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/majoclu-svg/Proyectos-Basicos-Python
+   ```
+3. Navega a la carpeta del proyecto:
+   ```bash
+   cd Proyectos-Basicos-Python
+   ```
+4. Ejecuta el script :
+   ```bash
+   python ahorcado.py
+   ```
+
+## 🕹️ Cómo Jugar
+
+*   Inicia el juego desde la terminal.
+*   El sistema mostrará guiones bajos (_) ocultando el nombre del campeón.
+*   Escribe una letra de la "A" a la "Z" y presiona *Enter*.
+*   Sobrevive y completa la palabra antes de perder tus 6 intentos iniciales.
